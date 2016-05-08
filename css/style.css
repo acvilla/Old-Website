@@ -685,9 +685,9 @@
 
 		#banner h2 {
 			display: inline-block;
-			padding: 0.50em 0.30em;
+			padding: 0.20em 0.20em;
 			background: #82b440;
-			text-indent: 15em;
+			text-indent: 5em;
 			font-size: 2em;
 			text-transform: uppercase;
 			font-weight: 400;
