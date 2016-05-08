@@ -697,7 +697,7 @@
 		#banner span, #banner p {
 			display: block;
 			letter-spacing: 1px;
-			text-align: right;
+			text-align: left;
 			text-indent: 10em;
 			font-size: 1em;
 			font-weight: 300;
@@ -705,7 +705,7 @@
 		}
 
 		#banner span {
-			padding: 0em 0em;
+			padding: 2em 3em;
 		}
 
 /* Main */
