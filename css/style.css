@@ -673,14 +673,14 @@
 /* Banner */
 
 	#banner {
-		padding: 11em 0em 1em 0em;
+		padding: 11em 0em 0em 0em;
 		text-align: center;
 		
 		color: white;
 	}
 
 		#banner .container {
-			padding: 0em 1em;
+			padding: 0em 0em;
 		}
 
 		#banner h2 {
@@ -695,13 +695,14 @@
 		#banner span, #banner p {
 			display: block;
 			letter-spacing: 1px;
+			text-align: center;
 			text-indent: 15em;
 			font-size: 1em;
 			font-weight: 300;
 		}
 
 		#banner span {
-			padding: 1em 0em;
+			padding: 0em 0em;
 		}
 
 /* Main */
