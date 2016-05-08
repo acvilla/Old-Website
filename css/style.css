@@ -608,7 +608,7 @@
 				border-radius: 4px;
 				display: inline-block;
 				margin-left: 0.5em;
-				padding: 0 0.5em;
+				
 			}
 
 				#nav > ul > li a {
@@ -630,10 +630,6 @@
 				    color: #82b440;
 				}
 
-				#nav > li.active a {
-					 color: #82b440;
-				}
-				
 				#nav > ul > li > ul {
 					display: none;
 					color: white;
