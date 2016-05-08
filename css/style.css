@@ -434,6 +434,7 @@
 		.button:hover {
 			background: #82b440;
 			color: white;
+			text-decoration: overline;
 		}
 
 		input[type="submit"].alt,
