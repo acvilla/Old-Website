@@ -699,13 +699,14 @@
 			text-align: center;
 			font-size: 1.3em;
 			font-weight: 300;
-			border-width: 0.50em;
-			border-style: dashed; 
+			border-width: 0.20em;
+			border-style: solid; 
 			border-radius: 3em;
 			
 		}
 
 		#banner span {
+			border-style: none;
 			text-align: center;
 			padding: 1em 0em;
 			
