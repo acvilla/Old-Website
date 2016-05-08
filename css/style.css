@@ -451,6 +451,7 @@
 			.button.alt:hover {
 				background: white;
 				color: #82b440;
+				text-decoration: overline;
 			}
 
 		input[type="submit"].fit,
@@ -625,6 +626,7 @@
 
 				#nav > ul > li.active a {
 					color: white;
+					text-decoration: overline;
 				}
 
 				#nav > ul > li > ul {
@@ -657,6 +659,7 @@
 
 			.dropotron > li.active > a, .dropotron > li:hover > a {
 				color: inherit;
+				text-decoration: overline;
 			}
 
 		.dropotron.level-0 {
