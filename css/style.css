@@ -622,6 +622,7 @@
 
 				#nav > ul > li:first-child {
 					margin-left: 0;
+					color: white;
 				}
 
 				#nav > ul > li.active a {
@@ -630,6 +631,7 @@
 
 				#nav > ul > li > ul {
 					display: none;
+					color: white;
 				}
 
 /* Dropotron */
