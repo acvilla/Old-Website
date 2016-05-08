@@ -673,21 +673,19 @@
 /* Banner */
 
 	#banner {
-		padding: 6em 0em 3em 0em;
+		padding: 1em 0em 1em 0em;
 		text-align: center;
 		
 		color: white;
 	}
 
 		#banner .container {
-			padding: 0em 8em;
+			padding: 0em 1em;
 		}
 
 		#banner h2 {
 			display: inline-block;
-			padding: 0.20em 0.20em;
 			background: #82b440;
-			text-indent: 5em;
 			font-size: 2em;
 			text-transform: uppercase;
 			font-weight: 400;
