@@ -700,7 +700,10 @@
 			font-size: 1.3em;
 			font-weight: 300;
 			border-width: 0.20em;
-			border-style: solid; 
+			border-top-style: solid; 
+			border-bottom-style: solid;
+			border-right-style: none;
+			border-left-style: none;
 			border-radius: 3em;
 			
 		}
@@ -853,3 +856,6 @@
 		font-size: 1.6em;
 	}		
 }
+	#main #sidebar .major h2 {
+		font-size: 1.6em;
+	}
