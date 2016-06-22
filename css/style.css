@@ -553,6 +553,21 @@
 					border: 10px solid;
 					border-color: white;
 				}
+		.wrapper.style6 {
+			padding-bottom: 4em;
+			background: #ffff00;
+			text-align: center;
+			color: black;
+		}
+
+			.wrapper.style6 .container {
+				padding-left: 6em;
+				padding-right: 6em;
+			}
+
+			.wrapper.style6 p {
+				font-size: 1.4em;
+			}
 
 /* Header */
 
