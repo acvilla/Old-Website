@@ -471,7 +471,7 @@
 /* Wrapper */
 
 	.wrapper {
-		padding: 0em 0em 4em 0em;
+		padding: 6em 0em 4em 0em;
 	}
 
 		.wrapper.style1 {
@@ -517,7 +517,7 @@
 			}
 
 		.wrapper.style3 {
-			padding-bottom: 0em;
+			padding-bottom: 6em;
 			background: #82b440;
 			text-align: center;
 			color: white;
@@ -529,7 +529,7 @@
 			}
 
 			.wrapper.style3 p {
-				font-size: 1.6em;
+				font-size: 1.4em;
 			}
 
 		.wrapper.style4 {
